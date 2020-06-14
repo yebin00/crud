@@ -1,0 +1,19 @@
+h1 { 
+    color :  #ffffff;
+    font-family: 'Permanent Marker', cursive;
+}
+
+body {
+    background-color : #fff2e6;
+    padding : 15px
+}
+
+p {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.page-header {
+    background-color: #ffe6b3;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
